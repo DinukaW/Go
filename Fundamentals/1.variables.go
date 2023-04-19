@@ -19,7 +19,7 @@ func main() {
 	fmt.Println(game2)
 
 	//declaring multiple variables
-	//compound creation
+	//Compound creation
 	var var1, var2, var3 = 28, "Dota2", "Golang"
 	//var1, var2, var3 := 28, "Dota2", "Golang" withou var keyword
 	//var1 := "league of ledgends" we can't reassign like this but we can reassign along with new variable ex- var4, var1 := "new var", "CoD"
